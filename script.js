@@ -1,0 +1,1 @@
+alert("Faites zoomer la page à 115%");
